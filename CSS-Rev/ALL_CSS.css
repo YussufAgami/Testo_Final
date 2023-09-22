@@ -1,0 +1,47 @@
+.home-headline {
+    background-color: rgb(141 233 228 / 63%);
+    color: #ffffff;
+    font-weight: bold;
+    border-radius:10px ;
+    font-style: italic;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+}
+h3,a {
+    color:white;
+}
+#home-bg {
+    height: 50vh;
+    padding: 25px;
+    background-image: url(../Img-Rev/programming-background-collage.jpg);
+    /* background-size: 97%; */
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+#html-bg {
+    background-image: url(../Img-Rev/html-css-bg.jpg);
+    background-size:contain;
+    background-repeat: no-repeat;
+
+}
+#cssbg {
+    background-image: url(../Img-Rev/data--blue-background.jpg);
+    background-size:cover;
+}
+.html_headline {
+    background-color: hsla(19, 79%, 51%, 0.381);
+    color: #000000;
+    font-weight: bold;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+}
+/* ...................... */
+a {
+    text-decoration: none;
+    font-style: italic;
+}
